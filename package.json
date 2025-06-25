@@ -1,0 +1,12 @@
+{
+  "name": "user-query-matching",
+  "version": "1.0.0",
+  "description": "NLP-powered user query matching system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-nlp": "^4.27.0"
+  }
+}
